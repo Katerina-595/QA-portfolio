@@ -1,0 +1,12 @@
+Test Case Components
+No matter what method to document the test case was chosen, we should include the following fields in the test case:
+
+Test Case ID: A unique identifier for the test case.
+Title/Description: A concise description of the purpose of the test case.
+Test Objective: The specific goal or objective of the test.
+Preconditions: Any necessary conditions that must be met before the test is executed.
+Test Steps: A step-by-step sequence of actions to perform during the test.
+Input Data: The data or parameters to be used as input for the test.
+Expected Results: The anticipated outcomes or behaviors after executing the test steps.
+Actual Results: The actual outcomes observed when executing the test.
+Test Environment: Details about the system, hardware, software, and configurations used for testing.
