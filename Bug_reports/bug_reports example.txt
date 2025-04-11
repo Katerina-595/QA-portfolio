@@ -1,0 +1,10 @@
+You can see that all elements of a well-reported bug are present, including
+
+NameID
+Summary
+Visual proof
+Environment
+Source URL
+Console logs
+Steps to reproduce
+Expected vs. actual results
